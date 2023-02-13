@@ -16,7 +16,7 @@ _Algumas das principais funcionalidades incluem:_
 Para instalar e executar este projeto, você precisará ter Node.js e npm instalados em sua máquina.<br/> Em seguida, basta clonar este repositório e executar os seguintes comandos na pasta raiz do projeto:
 ```
 npm install
-npm start
+node api.js
 ```
 Este projeto foi criado com as seguintes tecnologias:
 
